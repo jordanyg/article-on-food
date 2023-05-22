@@ -1,0 +1,100 @@
+<style>
+.flexer{
+    display:flex;
+    margin-top: 30px;
+    border-color: black;
+}
+.button{
+    background-color: #583bb6;
+    border-radius: 20px;
+    border-color:#583bb6 ;
+    height: 25px;
+    color: #fff;
+    width: 100px;
+    font-size: 10px;
+    margin-left:20px ;
+    font-weight: 500;
+    line-height: 1.67;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+                
+}
+.button:hover{
+    background-color: #432c8f;
+}
+p{
+    font-size: 30px;
+ 
+    margin-left: 50px;
+}
+.first{
+    margin-left: 80px;
+}
+.second{
+    margin-left:800px;
+}
+.templates{
+    font-style: arial;
+    font-size: 20px;
+    cursor: pointer;
+}
+.flexest{
+    display: flex;
+    margin-top: 60px;
+    
+}
+.thol{
+    margin-left:40px;
+}
+.thos{
+    
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+}
+.blogs{
+    margin-left:650px;
+    font-size: 20px;
+    font-family: arial;
+    margin-right: 10px;
+    cursor: pointer;
+    
+
+}
+.blog{
+    margin-left: 20px;
+
+}
+.blog:hover{
+    text-decoration:underline ;
+}
+
+.shop{
+    margin-left: 20px;                
+}
+.shop:hover{
+    text-decoration:underline ;
+}
+.about{
+    margin-left: 20px;
+}
+.about:hover{
+    text-decoration:underline ;
+}
+.contact{
+        margin-left: 20px;
+    }
+.contact:hover{
+    text-decoration:underline ;
+}
+.shops{
+        margin-left: 20px;
+    }
+.shops:hover{
+    text-decoration:underline ;
+}
+
+
+
+</style>
